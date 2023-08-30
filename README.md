@@ -1,8 +1,9 @@
 # Asp Net Core Blog Site Project
  Blog site creation with asp.net core 5.0
 
-
-##                              HEADER
+<p align="center">
+## HEADER
+</p>
 ![](İmages/foto1.png)
 ![](İmages/foto2.png)
 
