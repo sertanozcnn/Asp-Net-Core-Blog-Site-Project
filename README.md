@@ -2,21 +2,27 @@
  Blog site creation with asp.net core 5.0
 
 
-HEADER
+## HEADER
 ![](İmages/foto1.png)
-
 ![](İmages/foto2.png)
-CATEGORY
+
+## CATEGORY
 ![](İmages/foto5.png)
-CONTACT
+
+## CONTACT
 ![](İmages/foto6.png)
-PANEL
+
+## PANEL
 ![](İmages/foto7.png)
-REGİSTER
-![](İmages/foto8.png = 250x250)
-LOGİN
+
+## REGİSTER
+![](İmages/foto8.png)
+
+## LOGİN
 ![](İmages/foto9.png)
-ADMİN PANEL
+
+## ADMİN PANEL
 ![](İmages/adminpanel1.png)
-ADMİN EDİT-ADD-DELETE
+
+## ADMİN EDİT-ADD-DELETE
 ![](İmages/adminpanel2.png)
