@@ -2,11 +2,7 @@
  Blog site creation with asp.net core 5.0
 
 
-<div style="text-align:center">
-  <h2>Merhaba, GitHub!</h2>
-</div>
-
-
+## HEADER
 
 
 ![](İmages/foto1.png)
