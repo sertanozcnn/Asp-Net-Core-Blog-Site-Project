@@ -1,9 +1,8 @@
 # Asp Net Core Blog Site Project
  Blog site creation with asp.net core 5.0
 
-<p align="center">
-## HEADER
-</p>
+
+<p align="center" style="font-size: 20px; color: blue;">Merhaba, GitHub!</p>
 
 ![](İmages/foto1.png)
 ![](İmages/foto2.png)
