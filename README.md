@@ -17,7 +17,6 @@
 ## CONTACT
 ![](İmages/foto6.png)
 
-======
 
 ## PANEL
 ![](İmages/foto7.png)
