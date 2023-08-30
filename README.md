@@ -2,7 +2,7 @@
  Blog site creation with asp.net core 5.0
 
 
-## HEADER
+##                              HEADER
 ![](İmages/foto1.png)
 ![](İmages/foto2.png)
 
