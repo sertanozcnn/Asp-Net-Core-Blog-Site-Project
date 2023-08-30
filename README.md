@@ -2,7 +2,10 @@
  Blog site creation with asp.net core 5.0
 
 
-<p align="center" style="font-size: 30px; color: blue; font-weight: bold;">Merhaba, GitHub!</p>
+<p align="center">
+  <span style="font-size: 30px; color: blue; font-weight: bold;">Merhaba, GitHub!</span>
+</p>
+
 
 ![](İmages/foto1.png)
 ![](İmages/foto2.png)
