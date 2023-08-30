@@ -2,7 +2,10 @@
  Blog site creation with asp.net core 5.0
 
 
-## <center>Merhaba, GitHub!</center>
+<div style="text-align:center">
+  <h2>Merhaba, GitHub!</h2>
+</div>
+
 
 
 
